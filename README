@@ -1,0 +1,14 @@
+==== INSTALLATION ====
+ this is a qt4 project
+
+ 0. qmake
+ 1. make
+ 
+ Now you can run the program called kreditrechner.
+
+BTW this software is licensed according to the GPL v2 and GPL v3
+I'll add this info to the sources later...
+
+Have fun and don't lend to much!
+
+Joachim Schiele
